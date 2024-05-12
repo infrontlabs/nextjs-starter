@@ -6,8 +6,8 @@
   "trailingComma": "es5",
   "printWidth": 120,
   "importOrder": [
-    "^react$",
-    "^next$",
+    "^react",
+    "^next",
     "<THIRD_PARTY_MODULES>",
     "^@core/(.*)$",
     "^@server/(.*)$",
